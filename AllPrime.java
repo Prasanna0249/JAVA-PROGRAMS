@@ -1,4 +1,4 @@
-//Program to display all prime numbers in between two  numbers.
+//Program to display all prime numbers in between given two  numbers.
 import java.util.Scanner;
 
 public class AllPrime
