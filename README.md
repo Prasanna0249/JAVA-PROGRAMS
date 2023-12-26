@@ -1,5 +1,5 @@
 Module 1:
-1. Program to read a number from the user and print whether it is positive or negative. PositiveNegative.java Positive.Java
+1. Program to read a number from the user and print whether it is positive or negative. PositiveNegative.java
 2. Program to solve quadratic equations (use if, else if and else). QuadraticEquation.Java
 3. Take three numbers from the user and print the greatest number. GreatestThree.java Greatest3.java
 4. Program that keeps a number from the user and generates an integer between 1 and 7 and displays the name of the weekday. Weekday.java
